@@ -1,0 +1,27 @@
+GIT
+  remote: https://github.com/mash-97/mashz.git
+  revision: 01d4e5f39b6c6d0c8a91f44aa4919a7f162f8c15
+  branch: master
+  specs:
+    mashz (0.2.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.7.0)
+      public_suffix (>= 2.0.2, < 5.0)
+    down (5.2.0)
+      addressable (~> 2.5)
+    public_suffix (4.0.6)
+    thor (1.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  down
+  mashz!
+  thor
+
+BUNDLED WITH
+   2.1.4

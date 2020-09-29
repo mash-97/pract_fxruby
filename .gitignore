@@ -1,0 +1,13 @@
+**/**/assets
+vendor/**/**
+/.bundle/
+/vendor/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+/.yardoc
+/_yardoc/
+/coverage/
+
+
